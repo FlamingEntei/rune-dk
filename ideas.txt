@@ -1,0 +1,30 @@
+Players tab:
+ -Default items
+ -Regen, stats, donor options
+
+general Tab:
+ -Control panel?
+ -Title
+ -Message texts
+ -ip add
+ -port
+ -website 
+  -forums, homepage, contact, highscores, donate, vote
+ -highscores
+
+items tab:
+ -item def editor
+ -make items donor/free
+ -prices
+
+shops:
+ -shop editor
+
+spawns:
+ -edit all npc spawns
+ -drag+drop spawns editor hopefully
+
+
+
+
+interviews thursday

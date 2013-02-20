@@ -1,0 +1,10 @@
+c:\users\ass\desktop\RuneDK\c#\RuneDK_WF\RuneDK_WF\RuneDK_WF\bin\Debug\RuneDK_WF.exe.config
+c:\users\ass\desktop\RuneDK\c#\RuneDK_WF\RuneDK_WF\RuneDK_WF\bin\Debug\RuneDK_WF.exe
+c:\users\ass\desktop\RuneDK\c#\RuneDK_WF\RuneDK_WF\RuneDK_WF\bin\Debug\RuneDK_WF.pdb
+c:\users\ass\desktop\RuneDK\c#\RuneDK_WF\RuneDK_WF\RuneDK_WF\obj\Debug\RuneDK_WF.csprojResolveAssemblyReference.cache
+c:\users\ass\desktop\RuneDK\c#\RuneDK_WF\RuneDK_WF\RuneDK_WF\obj\Debug\RuneDK_WF.Form1.resources
+c:\users\ass\desktop\RuneDK\c#\RuneDK_WF\RuneDK_WF\RuneDK_WF\obj\Debug\RuneDK_WF.Properties.Resources.resources
+c:\users\ass\desktop\RuneDK\c#\RuneDK_WF\RuneDK_WF\RuneDK_WF\obj\Debug\RuneDK_WF.csproj.GenerateResource.Cache
+c:\users\ass\desktop\RuneDK\c#\RuneDK_WF\RuneDK_WF\RuneDK_WF\obj\Debug\RuneDK_WF.exe
+c:\users\ass\desktop\RuneDK\c#\RuneDK_WF\RuneDK_WF\RuneDK_WF\obj\Debug\RuneDK_WF.pdb
+C:\Users\Ass\desktop\RuneDK\c#\RuneDK_WF\RuneDK_WF\RuneDK_WF\obj\Debug\RuneDK_WF.WelcomeForm.resources
